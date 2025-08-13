@@ -47,13 +47,12 @@ public class Assignment2_Arrays {
 		
 		//Semester5-->With all subjects
 		
-		
-				academics[4][4][0]="\n Probability and Stats  |Pass | 86"; 
-				academics[4][4][1]="\n Machine Learning |Pass | 88 ";
-				academics[4][4][2]="\n Compiler Design |Pass | 84";
-				academics[4][4][3]="\n Theory of Computation |Pass | 95";
-				academics[4][4][4]="\n Embedded Systems |Pass | 73";
-				academics[4][4][5]="\n Computer Graphics |Pass | 90";
+		academics[4][4][0]="\n Probability and Stats  |Pass | 86"; 
+		academics[4][4][1]="\n Machine Learning |Pass | 88 ";
+		academics[4][4][2]="\n Compiler Design |Pass | 84";
+		academics[4][4][3]="\n Theory of Computation |Pass | 95";
+		academics[4][4][4]="\n Embedded Systems |Pass | 73";
+		academics[4][4][5]="\n Computer Graphics |Pass | 90";
 				
 				
 //Printing Semester 2 subject 4 and 5 names
